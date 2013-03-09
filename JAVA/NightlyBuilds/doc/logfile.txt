@@ -1,0 +1,76 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.6.0_16\bin\javadoc.exe
+-sourcepath
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds
+-classpath
+C:\BlueJ\lib\bluejcore.jar;C:\BlueJ\lib\junit-4.8.2.jar;C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds
+-d
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds\doc
+-source
+1.6
+-doctitle
+NightlyBuilds
+-windowtitle
+NightlyBuilds
+-encoding
+UTF-8
+-charset
+UTF-8
+-link
+http://download.oracle.com/javase/6/docs/api/
+-author
+-version
+-nodeprecated
+-package
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/DrawPadAppletFrame.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Entry.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/EntryReciever.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/EntryInformation.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/ChatApplet.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/DrawPadNonApplet.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/VoteServer.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/VoteClient.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/NameIt.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Server.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/ClientPanel.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/ExampleUseageVotingSystem.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Countdown.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Test.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/EntrySender.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/IPConstants.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/SketchPadWithTimers.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/TimerConstants.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Startup.java
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/VoteClientApplet.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/DrawPadAppletFrame.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Entry.java...
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds\Entry.java:86: unmappable character for encoding UTF-8
+		score = new JLabel("?"); // Setup and add the score
+		                    ^
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds\Entry.java:111: unmappable character for encoding UTF-8
+					score.setText("?");
+					               ^
+C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds\Entry.java:148: unmappable character for encoding UTF-8
+					score.setText("?");
+					               ^
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/EntryReciever.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/EntryInformation.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/ChatApplet.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/DrawPadNonApplet.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/VoteServer.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/VoteClient.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/NameIt.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Server.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/ClientPanel.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/ExampleUseageVotingSystem.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Countdown.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Test.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/EntrySender.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/IPConstants.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/SketchPadWithTimers.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/TimerConstants.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/Startup.java...
+Loading source file C:\Users\samuel\Dropbox\java 219\Final Project\JAVA\NightlyBuilds/VoteClientApplet.java...
+3 errors

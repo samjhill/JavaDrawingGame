@@ -1,0 +1,2 @@
+Main-class: DrawPadAppletFrame
+Manifest-Version: 1.0

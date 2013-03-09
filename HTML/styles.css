@@ -1,0 +1,146 @@
+a{
+  color: black;
+  text-decoration: none;
+}
+
+* {
+  padding: 0;
+}
+
+.push {
+  height: 41px;
+}
+
+html,body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  background-color: white;
+  text-align: center;
+  z-index: -1;
+}
+
+p{
+   color: black;
+   font-family: Helvetica;
+   font-size: medium;
+}
+
+.body img{
+  vertical-align: middle;
+  padding: .5em;
+}
+
+@font-face{
+  font-family: Timeless;
+  src: url(Timeless.ttf);
+}
+
+@font-face{
+  font-family: Timeless-Bold;
+  src: url(Timeless-Bold.ttf);
+}
+
+.bodyText {
+  font-family: serif;
+  text-wrap: normal;
+  margin-left: auto;
+  margin-right: auto;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  background-color: white;
+  width: 600px;
+  text-align: center;
+  padding: 10px;
+  -moz-box-shadow: 5px 5px 2px gray;
+  -webkit-box-shadow: 5px 5px 2px gray;
+  box-shadow: 5px 5px 3px gray;
+}
+
+.body a {
+  color: black;
+}
+
+.body img {
+padding-top: 75px;
+}
+
+.body applet{
+  border-style: solid;
+  border-width: 3px;
+}
+#title {
+  font-family: Timeless-Bold;
+  padding-left: 100px;
+  text-align: left;
+  padding-top: 50px;
+  text-indent: 10px;
+}
+
+#header{
+  height: 41px;
+  color: white;
+}
+
+#header a{
+  color:white;
+}
+
+#howToPlay{
+  color: black;
+  background-repeat: no-repeat;
+  z-index: 99;
+  float: inherit;
+  background-image: url("images/howToPlay.png");
+}
+/*#howToPlay:hover{
+  background-image: none;
+}*/
+
+#footer{
+  color: white;
+  background-image: url(images/footer.png);
+  position: absolute;
+  bottom: 0px;
+  padding-left: 10px;
+  height: 41px;
+  width: 100%;
+  clear: both;
+}
+
+#footer a{
+  text-align: center;
+  color: white;
+  font-size: medium;
+}
+
+#navcontainer ul{
+  margin-top: -9px;
+  background-image: url(images/header.png);
+  height: 41px;
+  padding-right: 40px;
+  float: right;
+  color: White;
+  width: 100%;
+  font-family: sans-serif;
+}
+
+#navcontainer ul li {
+display: inline;  
+}
+
+#navcontainer ul li a{
+  float: right;
+  padding-left: 0.7em ;
+  color: White;
+  font-size: 34px;
+  text-decoration: none;
+}
+#navcontainer ul li a:hover
+{
+  color: #FFF;
+  text-shadow: #EEE 0 0 10px;
+}
+
+

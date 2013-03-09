@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Startup()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Timer\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=boolean\ isFinished()
+comment2.text=\r\n\ \ This\ will\ return\ true\ if\ the\ countdown\ timer\ has\ reached\ 0.\ \r\n\ \ We\ are\ going\ to\ use\ this\ to\ determine\ when\ to\ turn\ on\ drawing\ controls\r\n
+comment3.params=
+comment3.target=int\ getCount()
+numComments=4

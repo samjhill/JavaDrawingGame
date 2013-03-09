@@ -1,0 +1,19 @@
+so say, both client and server have its own thread
+
+can it run with another thread?
+
+
+Yes, You may need to do a little bit of concurrency, or the simple way...
+
+If the only thing that is running is a Java GUI and the thread pulling/sending objects you can use
+the stuff below in the receving thread.
+
+
+SwingUtilities.invokeLater(new Runnable() {
+
+	public void run() {
+
+		//Code that you want to run in the same thread as the UI.
+		//This prevents any concurrency glitches without introducing too much complexity.
+	}
+});
